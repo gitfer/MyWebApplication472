@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApplication472", "MyWebApplication472\MyWebApplication472.csproj", "{FE0052F8-422F-4D04-A09C-611EC8C04A81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSport.Lucene.Net.Analysis", "JSport.Lucene.Net.Analysis\JSport.Lucene.Net.Analysis.csproj", "{AD3AE512-3DB5-4FC9-A134-765BD38A98D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FE0052F8-422F-4D04-A09C-611EC8C04A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE0052F8-422F-4D04-A09C-611EC8C04A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE0052F8-422F-4D04-A09C-611EC8C04A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3AE512-3DB5-4FC9-A134-765BD38A98D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3AE512-3DB5-4FC9-A134-765BD38A98D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3AE512-3DB5-4FC9-A134-765BD38A98D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3AE512-3DB5-4FC9-A134-765BD38A98D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
